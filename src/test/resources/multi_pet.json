@@ -1,0 +1,110 @@
+[
+  {
+    "id": 101,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie101",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 102,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie102",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 103,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie103",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  },
+  {
+    "id": 104,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie104",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 105,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie105",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 106,
+    "category": {
+      "id": 0,
+      "name": "string"
+    },
+    "name": "doggie106",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "sold"
+  }
+]
