@@ -48,6 +48,6 @@ After executing the tests via mvn test, reports can be found in the test-output 
 
 ## Contact
 
-Email - [vijaykumarkhl@gmail.com]
+Email - [jai143dwd@gmail.com]
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: git@github.com:jai143dwd/PetStoreLatest.git
