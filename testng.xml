@@ -1,0 +1,8 @@
+<suite name="API Suite">
+    <test name="API Tests">
+        <classes>
+            <class name="com.mindtickle.tests.UserAPITest" />
+            <class name="com.mindtickle.tests.PetAPITest" />
+        </classes>
+    </test>
+</suite>

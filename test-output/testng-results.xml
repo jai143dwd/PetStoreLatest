@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-18T22:09:58 IST" name="API Suite" finished-at="2023-08-18T22:10:08 IST" duration-ms="9719">
+    <groups>
+    </groups>
+    <test started-at="2023-08-18T22:09:58 IST" name="API Tests" finished-at="2023-08-18T22:10:08 IST" duration-ms="9719">
+      <class name="com.mindtickle.tests.PetAPITest">
+        <test-method signature="createPetFromJsonFile()[pri:0, instance:com.mindtickle.tests.PetAPITest@1f59a598]" started-at="2023-08-18T22:10:03 IST" name="createPetFromJsonFile" description="This test create a single pet object from file" finished-at="2023-08-18T22:10:04 IST" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPetFromJsonFile -->
+        <test-method signature="createMultiPetFromJsonFile()[pri:1, instance:com.mindtickle.tests.PetAPITest@1f59a598]" started-at="2023-08-18T22:10:04 IST" name="createMultiPetFromJsonFile" description="This test creates multiple pet object from file " finished-at="2023-08-18T22:10:05 IST" duration-ms="915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createMultiPetFromJsonFile -->
+        <test-method signature="testUpdatePet()[pri:2, instance:com.mindtickle.tests.PetAPITest@1f59a598]" started-at="2023-08-18T22:10:05 IST" name="testUpdatePet" description="This test updates a pet record which was previously created " finished-at="2023-08-18T22:10:06 IST" duration-ms="926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdatePet -->
+        <test-method signature="testUpdatePetFromFile()[pri:3, instance:com.mindtickle.tests.PetAPITest@1f59a598]" started-at="2023-08-18T22:10:06 IST" name="testUpdatePetFromFile" description="This test updates a pet record from file which was previously created " finished-at="2023-08-18T22:10:07 IST" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdatePetFromFile -->
+        <test-method signature="testGetPetsByStatus()[pri:4, instance:com.mindtickle.tests.PetAPITest@1f59a598]" started-at="2023-08-18T22:10:07 IST" name="testGetPetsByStatus" description="This test updates a pet record from file which was previously created " finished-at="2023-08-18T22:10:08 IST" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetPetsByStatus -->
+      </class> <!-- com.mindtickle.tests.PetAPITest -->
+      <class name="com.mindtickle.tests.UserAPITest">
+        <test-method signature="createSingleUserWithOverrides()[pri:0, instance:com.mindtickle.tests.UserAPITest@707194ba]" started-at="2023-08-18T22:09:58 IST" name="createSingleUserWithOverrides" description="This test creates single user from file " finished-at="2023-08-18T22:09:59 IST" duration-ms="1280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createSingleUserWithOverrides -->
+        <test-method signature="createMultiUsersFromJsonFile()[pri:1, instance:com.mindtickle.tests.UserAPITest@707194ba]" started-at="2023-08-18T22:09:59 IST" name="createMultiUsersFromJsonFile" description="This test creates multiple user from file " finished-at="2023-08-18T22:10:00 IST" duration-ms="993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createMultiUsersFromJsonFile -->
+        <test-method signature="testUpdateUser()[pri:2, instance:com.mindtickle.tests.UserAPITest@707194ba]" started-at="2023-08-18T22:10:00 IST" name="testUpdateUser" description="This test updates a users which was created at step0" finished-at="2023-08-18T22:10:01 IST" duration-ms="872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUser -->
+        <test-method signature="testUpdateUserFromFile()[pri:3, instance:com.mindtickle.tests.UserAPITest@707194ba]" started-at="2023-08-18T22:10:01 IST" name="testUpdateUserFromFile" description="This test updates a users using JSOMN file which was created at step1" finished-at="2023-08-18T22:10:02 IST" duration-ms="905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserFromFile -->
+        <test-method signature="testGetUserByUsername()[pri:4, instance:com.mindtickle.tests.UserAPITest@707194ba]" started-at="2023-08-18T22:10:02 IST" name="testGetUserByUsername" description="This test gives the details of the user updated in previous step" finished-at="2023-08-18T22:10:03 IST" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByUsername -->
+      </class> <!-- com.mindtickle.tests.UserAPITest -->
+    </test> <!-- API Tests -->
+  </suite> <!-- API Suite -->
+</testng-results>

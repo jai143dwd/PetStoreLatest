@@ -1,2 +1,34 @@
-package com.mindtickle.api.model;public class PostResponse {
+package com.mindtickle.api.model;
+
+public class PostResponse {
+    private int code;
+    private String type;
+    private String message;
+
+    // Getters and setters
+
+    public int getCode() {
+        return code;
+    }
+
+    public void setCode(int code) {
+        this.code = code;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public String getMessage() {
+        return message;
+    }
+
+    public void setMessage(String message) {
+        this.message = message;
+    }
 }
+
