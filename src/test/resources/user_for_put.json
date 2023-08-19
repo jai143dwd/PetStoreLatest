@@ -1,0 +1,12 @@
+
+  {
+    "id": 101,
+    "username": "FromPUT",
+    "firstName": "Johnnew",
+    "lastName": "Doe",
+    "email": "johndoe@example.com",
+    "password": "password123",
+    "phone": "111222333",
+    "userStatus": 0
+  }
+
